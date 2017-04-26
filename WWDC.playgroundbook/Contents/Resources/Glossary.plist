@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code that&apos;s repeated a certain number of times (for example, a `for` loop) or until a condition is met (for example, a `while` loop).</string>
+		</dict>
+		<key>rhythm</key>
+		<dict>
+			<key>Definition</key>
+			<string>Rhythm is the pattern of regular or irregular pulses caused in music</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Making%20own%20rhythms</string>
+				<key>Title</key>
+				<string>Rhythm</string>
+			</dict>
+		</dict>
+		<key>beat</key>
+		<dict>
+			<key>Definition</key>
+			<string>The beat is the basic time unit in a piece of music representing one moment in time, or a segment of rhythm.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Expand</string>
+				<key>Title</key>
+				<string>Expand</string>
+			</dict>
+		</dict>
+		<key>hypotenuse</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Making%20own%20rhythms</string>
+				<key>Title</key>
+				<string>Rhythm</string>
+			</dict>
+			<key>Definition</key>
+			<string>A hypotenuse is the longest side of a right-angled triangle, the side opposite of the right angle.</string>
+		</dict>
+		<key>octave</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>An octave is the interval between two notes with half or double its frequency. So they &apos;sound the same&apos;.</string>
+		</dict>
+		<key>root note</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>The note, the chord is named after. So e.g. in a C-major chord is &quot;C&quot; the root note.</string>
+		</dict>
+		<key>interval</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>An interval is the difference (or distance) between two notes.</string>
+		</dict>
+		<key>chord</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>A chord is a harmonic set of notes consisting of two or more (usually three) notes. </string>
+		</dict>
+		<key>scale</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>A scale is a set of orderd musical notes. Most common scales have 8 notes (octavic).</string>
+		</dict>
+		<key>pentatonics</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/How%20pentatonics%20work</string>
+				<key>Title</key>
+				<string>Pentatonics</string>
+			</dict>
+			<key>Definition</key>
+			<string>A pentatonic scale is a musical scale or mode with five notes per octave, where each five notes are in harmony with the belonging chord.</string>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Setting%20the%20Start(point)</string>
+				<key>Title</key>
+				<string>Start</string>
+			</dict>
+			<key>Definition</key>
+			<string>A collection that stores an ordered list of items.</string>
+		</dict>
+		<key>call</key>
+		<dict>
+			<key>Definition</key>
+			<string>To tell code to run a function. For example, calling the `moveBackward()` function in your code tells the application to perform the actions defined in that function.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>command</key>
+		<dict>
+			<key>Definition</key>
+			<string>Code that tells an application to perform a specific action.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>coordinates</key>
+		<dict>
+			<key>Definition</key>
+			<string>A set of numbers that uniquely determine a position in a space. For example, (4, 7) are coordinates for a point in a 2D space, where the x coordinate is 4 and the y coordinate is 7.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Setting%20the%20Start(point)</string>
+				<key>Title</key>
+				<string>Start</string>
+			</dict>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named set of commands that can be run whenever needed.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Setting%20the%20Start(point)</string>
+				<key>Title</key>
+				<string>Start</string>
+			</dict>
+		</dict>
+		<key>Int</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+			<key>Definition</key>
+			<string>A type that stores an integer—a number that has no decimal, such as 10 or –42.
+</string>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>Definition</key>
+			<string>A function, or set of commands, that’s defined inside a type.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>Definition</key>
+			<string>The name of an input value to a function, used in the definition of the function. For example, in the function `wait(duration: Int)`, `duration` is a parameter that takes a value of type `Int`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Setting%20the%20Start(point)</string>
+				<key>Title</key>
+				<string>Start</string>
+			</dict>
+		</dict>
+		<key>pattern</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating set of circumstances or data.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>Swift</key>
+		<dict>
+			<key>Definition</key>
+			<string>Apple’s programming language, used for writing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Music%20is%20fun/Making%20own%20rhythms</string>
+				<key>Title</key>
+				<string>Rhythm</string>
+			</dict>
+			<key>Definition</key>
+			<string>A named grouping of properties (the features) and methods (the behaviors) of a kind of data.
+</string>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named container that stores a value that can be changed.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
